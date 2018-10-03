@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello!
 
-### More Information
+I am Evgeny Astigeevich.
+I am a compiler engineer. Since 2014 I've been working on a LLVM-based compiler (Arm compiler): fixing defects, implementing optimizations, leading teams.
+At the moment I am on a team responsible for optimizing the Android Runtime (ART) JIT and AOT compilers for ARM architectures. 
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[evgeny.astigeevich@gmail.com](evgeny.astigeevich@gmail.com)
